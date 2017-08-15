@@ -3,7 +3,7 @@
 /*** Coding Challenge ***/
 
 
-module.exports = function whatTriangle(num1, num2, num3){
+function whatTriangle(num1, num2, num3){
 
   let n1 = num1,
   n2 = num2,
